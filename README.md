@@ -1,6 +1,11 @@
 # ef12345
 
 A new Flutter project.
+In my case the BLE Device is ESP32. It is programmed to give some JSON file which containes RGB values.
+So this app does connect with the BLE device and retreive that json and decode that rgb values and print its respective color rgb values.
+
+Make Some changes as you need
+
 
 ## Getting Started
 
